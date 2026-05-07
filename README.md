@@ -75,7 +75,7 @@ re-mmogo/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/re-mmogo.git
+git clone https://github.com/magudufrancisco-cmd/re-mmogo.git
 cd re-mmogo
 ```
 
@@ -142,13 +142,13 @@ npm run build
 
 ## Live URL
 
-> [https://re-mmogo.vercel.app](https://re-mmogo.vercel.app) *(update after deployment)*
+https://elegant-fairy-52764a.netlify.app
 
 ---
 
-## Backend Repository
+## Frontend Repository
 
-> [https://github.com/YOUR_USERNAME/re-mmogo-api](https://github.com/YOUR_USERNAME/re-mmogo-api) *(update with actual link)*
+https://github.com/magudufrancisco-cmd/re-mmogo 
 
 ---
 
@@ -157,13 +157,13 @@ npm run build
 | Name | Role |
 |------|------|
 | Francisco | Project Lead / Frontend |
-| *(add teammates)* | Frontend Developer |
-| *(add teammates)* | Frontend Developer |
-| *(add teammates)* | Backend Developer |
-| *(add teammates)* | Backend Developer |
-| *(add teammates)* | Database / Backend |
+| Phenyo | Frontend Developer |
+| Fransciso | Frontend Developer |
+| Bobo| Database / Backend |
+| Letso | Database / Backend |
+| Khanyisile | Figma |
 
-**Lecturer:** Dr. Oteng Tabona
+**Lecturer:** Dr. Hlomani
 **Module:** INFS 202 — Full Stack Web Development
 **Institution:** Botswana International University of Science and Technology (BIUST)
 
